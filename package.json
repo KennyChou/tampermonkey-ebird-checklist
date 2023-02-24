@@ -1,8 +1,8 @@
 {
-  "name": "tampermonkey-vue",
-  "version": "1.0.2",
-  "description": "使用Vue建立Tampermonkey plugin",
-  "author": "harry",
+  "name": "ebird-checklist",
+  "version": "1.0.4",
+  "description": "eBird Checklsit Download",
+  "author": "Kenny Chou",
   "private": true,
   "main": "/src/main.js",
   "keywords": [
